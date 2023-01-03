@@ -1,0 +1,18 @@
+{
+    "server1": {
+        "host" :"http://localhost:8001",
+        "port" :"8001"
+
+    },
+    "server2": {
+        "host" :"http://localhost:8002",
+        "port" :"8002"
+    },
+    "server3": {
+        "host" :"http://localhost:8003",
+        "port" :"8003"
+    },
+    "mainServer": {
+        "port" :"8080"
+    }
+}
